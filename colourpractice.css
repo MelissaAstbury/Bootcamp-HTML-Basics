@@ -1,0 +1,39 @@
+body {
+  background-image: url(./assets/images/IMG_0368.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-header {
+  color: #222;
+  font-size: 30px;
+  letter-spacing: 7px;
+}
+
+.btn {
+  padding: 20px 40px 20px 40px;
+  margin-right: 20px;
+  color: white;
+}
+
+.btn-green {
+  background-color: green;
+}
+
+.btn-green:hover {
+  background-color: rgb(0, 59, 0);
+}
+
+.btn-red {
+  background-color: red;
+  /* color: green; */
+}
+
+.btn-yellow {
+  background-color: yellow;
+  /* color: green; */
+}
+
+.btn-lg {
+  padding: 40px 40px;
+}
